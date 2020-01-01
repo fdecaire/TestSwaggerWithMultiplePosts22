@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestSwaggerWithMultiplePostsCore22</name>
+    </assembly>
+    <members>
+        <member name="M:TestSwaggerWithMultiplePostsCore22.Controllers.ValuesController.Post1(TestSwaggerWithMultiplePostsCore22.Models.FirstPostPoco)">
+            <summary>
+            first post test
+            </summary>
+            <param name="firstPostPoco"></param>
+        </member>
+        <member name="M:TestSwaggerWithMultiplePostsCore22.Controllers.ValuesController.Post2(TestSwaggerWithMultiplePostsCore22.Models.SecondPostPoco)">
+            <summary>
+            second post test
+            </summary>
+            <param name="secondPostPoco"></param>
+        </member>
+    </members>
+</doc>
